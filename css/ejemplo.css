@@ -1,0 +1,90 @@
+* {margin: 0px;
+	padding: 0px; }
+
+body { background-image: url("../img/fondo1.jpg");
+		background-repeat: no-repeat;
+		background-size: cover;
+}
+
+#capsalament h1 { color: white;
+				position: absolute;
+				left: 100px;
+				top: 25px; }
+				
+#capsalament h3 { color: white;
+				position: absolute;
+				left: 306px;
+				top: 33px; }
+
+.logo img { margin-left: 10px;
+			margin-top: 10px;
+			width: 79px;
+			height: 72px; }
+
+#menu li{float: left;
+		margin-left: 30px;
+		 list-style: none;
+		 border: 1px solid black;
+		 padding-left: 40px;
+		 padding-right: 40px;
+		 background: olive;
+		 color: white; }
+
+#empresa img{ width: 500px;
+			margin-left: 50px;
+			margin-top: 50px; }
+
+#empresa p{ color: white;
+			float: right;
+			margin-right: 300px;
+			margin-top: 150px;}
+
+#empresa2 img{ width: 500px;
+			margin-left: 50px;
+			margin-top: 50px; }
+
+a{ text-decoration: none;
+	color: white; }
+.login{color: white;
+		position: absolute;
+		right: 11px;
+		top: 14px;
+		border: 1px solid black;
+		padding: 10px;
+		background: olive;
+}
+h2 {
+color :white;
+}
+h3 {
+color :white;
+}
+
+.logincorrecte{
+color: white;
+				position: absolute;
+				right: 11px;
+				top: 14px;
+			border: 1px solid black;
+			padding: 10px;
+			background: olive;
+}
+.registret{position: absolute;
+				right: 20px;
+				top: 50px;
+				width: 79px;
+}
+.video{ position: absolute;
+				right: 20px;
+				top: 600px;
+
+}
+.teresa{
+color: white;
+				position: absolute;
+				right: 11px;
+				top: 14px;
+			border: 1px solid black;
+			padding: 10px;
+			background: olive;
+}
